@@ -1,148 +1,142 @@
 <div align="center">
 
+<img src="https://cdn.discordapp.com/avatars/469607956590231553/7ebb41097e323886ddf93986106770cf.webp?size=1024" width="180" style="border-radius: 50%; margin-bottom: 20px;" />
+
 # DATA CLOUD SERVICES
-## CHANGELOG — VERSION 1.3
+## CHANGELOG — VERSIÓN 1.3
 
-### Renovación completa de la plataforma principal
+**Bienvenido a la actualización más grande hasta ahora**
 
-<img src="https://i.imgur.com/8Km9tLL.png" width="120"/>
-
-[Portal Principal](https://portal.dcs.codes/) • [Panel Demo](https://control.dcs.codes/)
+[🌐 Portal Principal](https://portal.dcs.codes/) • [🖥 Panel Demo](https://control.dcs.codes/)
 
 > **Versión:** 1.3  
 > **Desarrollado por:** Kevinssj
 
 </div>
 
-# Bienvenido a la versión 1.3
+---
 
-La versión **1.3** representa una de las actualizaciones más grandes realizadas hasta el momento en la plataforma de **Data Cloud Services**.
+## 🧩 Diseño tipo website
 
-Esta actualización se enfoca completamente en:
+Este documento está diseñado como una página de presentación moderna, con secciones claras, tipografía simple y una experiencia visual más ordenada.
+
+- Navegación y estructura pensadas como un sitio web.
+- Secciones de información rápida y accesible.
+- Contacto directo incluido al final.
+
+---
+
+## 🚀 ¿Qué trae la versión 1.3?
+
+La versión **1.3** es una renovación completa de la plataforma **Data Cloud Services**, enfocada en:
+
 - Modernización visual.
 - Mejor experiencia de usuario.
-- Mayor claridad en precios y servicios.
-- Accesibilidad internacional.
-- Nuevas categorías y servicios disponibles.
-- Implementación inicial del nuevo panel administrativo.
+- Mayor claridad de precios y servicios.
+- Soporte multilenguaje.
+- Nueva experiencia de panel administrativo.
+- Accesibilidad y organización mejoradas.
 
-# ¿Qué vas a encontrar en esta actualización?
+---
 
-# Nuevo diseño completo de la plataforma
+## ✨ Novedades principales
 
-La web principal fue rediseñada desde cero.
+### Diseño renovado
+- Interfaz moderna y minimalista.
+- Espacios mejor distribuidos.
+- Navegación más intuitiva.
+- Diseño adaptado a experiencia de sitio web.
 
-## ¿Qué cambia?
+### Rendimiento optimizado
+- Cargas más rápidas.
+- Fluidez mejorada.
+- Estabilidad y experiencia visual más consistente.
 
-### Nueva experiencia visual
-Toda la interfaz ahora cuenta con:
-- Diseño moderno.
-- Mejor organización visual.
-- Navegación más limpia.
-- Distribución optimizada de contenido.
+### Accesibilidad mejorada
+- Contenido más legible.
+- Secciones más fáciles de identificar.
+- Enlaces y recursos claros.
 
-### Mejor rendimiento
-Se optimizó el funcionamiento general del sitio:
-- Menor tiempo de carga.
-- Navegación más fluida.
-- Mejor estabilidad visual.
-- Optimización general del frontend.
+---
 
-### Mejor accesibilidad
-Ahora toda la información es más fácil de entender y localizar.
+## 🌍 Sistema multilenguaje
 
-# Sistema multilenguaje
+La plataforma ahora incluye soporte para múltiples idiomas:
 
-La plataforma ahora incorpora soporte para múltiples idiomas.
-
-## Idiomas disponibles
 - Español
 - Portugués
 - Inglés
 
-## ¿Cómo funciona?
-Desde el selector superior del sitio podrás cambiar el idioma instantáneamente sin necesidad de recargar manualmente la página.
+### Cómo funciona
+El selector superior permite cambiar el idioma de forma instantánea sin necesidad de recargar manualmente la página.
 
-## Objetivo
-Permitir que usuarios internacionales puedan utilizar la plataforma de forma mucho más cómoda.
+### Objetivo
+Facilitar el uso internacional y brindar una experiencia cómoda para todos los usuarios.
 
-# Nuevo sistema de precios
+---
 
-Se renovó completamente el sistema de visualización de precios.
+## 💲 Nuevo sistema de precios
 
-## Conversión automática de monedas
+Se renovó completamente la manera en que se muestran los precios.
 
-Ahora podrás visualizar precios automáticamente en:
+### Conversión automática de monedas
 - USD
 - ARG
 
-## Precios finales reales
+### Precio final real
 Todos los precios publicados:
 - Incluyen IVA.
 - Muestran el valor final real.
-- Fueron actualizados completamente.
+- Están actualizados y claros.
 
-## Beneficios
-- Mayor transparencia.
+### Beneficios
+- Más transparencia.
 - Menos confusión.
 - Mejor experiencia para clientes internacionales.
 
-# Nuevos servicios incorporados
+---
 
-La versión 1.3 incorpora nuevas categorías y servicios disponibles para contratación.
-
-## Servicios añadidos
+## 🛠 Nuevos servicios disponibles
 
 | Servicio | Planes |
-|----------|---------|
+|----------|--------|
 | TS3 | 2 Planes |
 | HYTALE | 4 Planes |
 | VALHEIM | 1 Plan |
 | CONAN EXILES ENHANCED | 1 Plan |
 
-# Panel de administración (Demo)
+---
 
-Se implementó una versión inicial de demostración del nuevo panel administrativo.
+## 🧑‍💼 Panel administrativo (Demo)
 
-## Acceso
+Se lanzó una versión inicial de demostración del nuevo panel de administración.
+
+### Acceso
 https://control.dcs.codes/
 
-## ¿Qué permite esta demo?
+### ¿Qué puedes ver?
+- Interfaz del panel.
+- Herramientas disponibles.
+- Navegación del sistema.
+- Flujo de uso antes de contratar.
 
-La demo permite a futuros clientes:
-- Conocer la interfaz del panel.
-- Explorar el funcionamiento general.
-- Ver herramientas disponibles.
-- Familiarizarse con el sistema antes de contratar.
+> Este panel es una demo y continuará evolucionando con mejoras futuras.
 
-## Importante
-Esta versión es únicamente demostrativa y continuará recibiendo mejoras en futuras actualizaciones.
+---
 
-# Mejoras visuales y de navegación
+## 🎯 Objetivos de la actualización
 
-## Botón flotante
-Se añadió un nuevo botón flotante que permite regresar rápidamente al inicio del sitio.
-
-## Nuevas animaciones
-Se incorporaron animaciones minimalistas optimizadas para:
-- Mejorar la experiencia visual.
-- Dar mayor fluidez.
-- Modernizar la navegación.
-- Mantener una estética limpia.
-
-# Objetivos principales de la v1.3
-
-Esta actualización fue desarrollada con el objetivo de:
-
-- Modernizar completamente la plataforma.
-- Mejorar la experiencia general del usuario.
-- Facilitar la navegación.
-- Hacer el sitio más accesible internacionalmente.
+- Modernizar la plataforma.
+- Mejorar la experiencia de usuario.
+- Simplificar la navegación.
+- Hacer el sitio más accesible e internacional.
 - Mostrar precios reales y transparentes.
-- Expandir la cantidad de servicios disponibles.
-- Preparar la infraestructura para futuras actualizaciones.
+- Ampliar servicios disponibles.
+- Preparar la infraestructura para futuras versiones.
 
-# Estado de componentes
+---
+
+## 📊 Estado actual de los componentes
 
 | Componente | Estado |
 |------------|--------|
@@ -153,10 +147,35 @@ Esta actualización fue desarrollada con el objetivo de:
 | Nuevos servicios | Implementados |
 | Optimización visual | Completada |
 
+---
+
+## 📬 Contacto
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="220" align="center">
+        <img src="https://cdn.discordapp.com/avatars/469607956590231553/7ebb41097e323886ddf93986106770cf.webp?size=1024" width="120" style="border-radius: 50%;" />
+      </td>
+      <td align="left">
+        **Discord de contacto**  
+        ID: `469607956590231553`  
+        
+        **Disponible para:**  
+        - Soporte de plataforma  
+        - Consultas de actualización  
+        - Demostraciones y feedback  
+        - Coordinación de nuevos servicios
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <div align="center">
 
-# Gracias por utilizar Data Cloud Services
-
-### v1.3 — By Kevin
+### Gracias por visitar Data Cloud Services  
+### Versión 1.3
 
 </div>
