@@ -7,7 +7,7 @@
 
 **Bienvenido a la actualización más grande hasta ahora**
 
-[🌐 Portal Principal](https://portal.dcs.codes/) • [🖥 Panel Demo](https://control.dcs.codes/)
+<a href="https://portal.dcs.codes/" target="_blank"><i class="fa fa-home"></i> Portal Principal</a> • <a href="https://control.dcs.codes/" target="_blank"><i class="fa fa-tachometer-alt"></i> Panel Oficial</a>
 
 > **Versión:** 1.3  
 > **Desarrollado por:** Kevinssj
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧩 Diseño tipo website
+## <i class="fa fa-window-maximize"></i> Diseño tipo website
 
 Este documento está diseñado como una página de presentación moderna, con secciones claras, tipografía simple y una experiencia visual más ordenada.
 
@@ -26,7 +26,7 @@ Este documento está diseñado como una página de presentación moderna, con se
 
 ---
 
-## 🚀 ¿Qué trae la versión 1.3?
+## <i class="fa fa-rocket"></i> ¿Qué trae la versión 1.3?
 
 La versión **1.3** es una renovación completa de la plataforma **Data Cloud Services**, enfocada en:
 
@@ -39,7 +39,7 @@ La versión **1.3** es una renovación completa de la plataforma **Data Cloud Se
 
 ---
 
-## ✨ Novedades principales
+## <i class="fa fa-star"></i> Novedades principales
 
 ### Diseño renovado
 - Interfaz moderna y minimalista.
@@ -59,7 +59,7 @@ La versión **1.3** es una renovación completa de la plataforma **Data Cloud Se
 
 ---
 
-## 🌍 Sistema multilenguaje
+## <i class="fa fa-language"></i> Sistema multilenguaje
 
 La plataforma ahora incluye soporte para múltiples idiomas:
 
@@ -75,7 +75,7 @@ Facilitar el uso internacional y brindar una experiencia cómoda para todos los 
 
 ---
 
-## 💲 Nuevo sistema de precios
+## <i class="fa fa-dollar-sign"></i> Nuevo sistema de precios
 
 Se renovó completamente la manera en que se muestran los precios.
 
@@ -96,7 +96,7 @@ Todos los precios publicados:
 
 ---
 
-## 🛠 Nuevos servicios disponibles
+## <i class="fa fa-tools"></i> Nuevos servicios disponibles
 
 | Servicio | Planes |
 |----------|--------|
@@ -107,24 +107,27 @@ Todos los precios publicados:
 
 ---
 
-## 🧑‍💼 Panel administrativo (Demo)
+## <i class="fa fa-user-tie"></i> Panel administrativo (Demo)
 
-Se lanzó una versión inicial de demostración del nuevo panel de administración.
+Se lanzó una versión inicial de demostración del panel administrativo oficial dentro de **portal.dcs.codes**, que reproduce el funcionamiento del panel oficial en **control.dcs.codes**.
 
-### Acceso
+### Acceso demo
+Dentro de **portal.dcs.codes** tienes la demo del panel oficial.
+
+### Panel oficial
 https://control.dcs.codes/
 
 ### ¿Qué puedes ver?
-- Interfaz del panel.
+- Interfaz del panel oficial.
 - Herramientas disponibles.
 - Navegación del sistema.
 - Flujo de uso antes de contratar.
 
-> Este panel es una demo y continuará evolucionando con mejoras futuras.
+> Este panel es una demo oficial y continuará evolucionando con mejoras futuras.
 
 ---
 
-## 🎯 Objetivos de la actualización
+## <i class="fa fa-bullseye"></i> Objetivos de la actualización
 
 - Modernizar la plataforma.
 - Mejorar la experiencia de usuario.
@@ -136,7 +139,7 @@ https://control.dcs.codes/
 
 ---
 
-## 📊 Estado actual de los componentes
+## <i class="fa fa-chart-bar"></i> Estado actual de los componentes
 
 | Componente | Estado |
 |------------|--------|
@@ -149,7 +152,7 @@ https://control.dcs.codes/
 
 ---
 
-## 📬 Contacto
+## <i class="fa fa-envelope"></i> Contacto
 
 <div align="center">
   <table>
