@@ -149,29 +149,6 @@ https://control.dcs.codes/
 | Panel demo | Disponible |
 | Nuevos servicios | Implementados |
 | Optimización visual | Completada |
-
----
-
-## <i class="fa fa-envelope"></i> Contacto
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="220" align="center">
-        <img src="https://cdn.discordapp.com/avatars/469607956590231553/7ebb41097e323886ddf93986106770cf.webp?size=1024" width="120" style="border-radius: 50%;" />
-      </td>
-      <td align="left">
-        **Discord de contacto**  
-        ID: `469607956590231553`  
-        
-        **Disponible para:**  
-        - Soporte de plataforma  
-        - Consultas de actualización  
-        - Demostraciones y feedback  
-        - Coordinación de nuevos servicios
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
